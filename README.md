@@ -1,1 +1,1 @@
-Flex cable with DB-50 socket and Omnetics nano-d A28500-051 plug. Stack-up: video signals, ground, clock signals, biases (and some clocks) + ground plane.
+Flex cable with DB-50 socket and Omnetics nano-d A28500-051 plug. Stack-up: video signals + some clock lines, ground, most clock signals, biases + ground plane. Stiffener is outlined in the F.Paste layer. DB-50 connector side needs to be cut as close as possible to the edge to accommodate tight space constraints inside the dewar.
